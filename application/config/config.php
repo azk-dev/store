@@ -24,7 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://localhost/store/';
-$config['base_url'] = 'https://ssc-gad.store-kdi.com/';
+$config['base_url'] = 'https://admin.store-kdi.com/';
 
 /*
 |--------------------------------------------------------------------------
