@@ -23,7 +23,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/fixlcore/';
+$config['base_url'] = 'http://localhost/store/';
+$config['base_url'] = 'https://ssc-gad.store-kdi.com/';
 
 /*
 |--------------------------------------------------------------------------
